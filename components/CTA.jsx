@@ -5,15 +5,15 @@ const CTA = () => {
         <div className="relative z-10 gap-5 items-center lg:flex">
           <div className="flex-1 max-w-lg py-5 sm:mx-auto sm:text-center lg:max-w-max lg:text-left">
             <h3 className="text-3xl text-gray-800 font-semibold md:text-4xl">
-              {`Enhance Your Vehicle's Electrical Systems`}
+              {`Drive with Confidence              `}
             </h3>
             <p className="text-gray-500 leading-relaxed mt-3">
-              We specialize in auto electrical services, ensuring your {`vehicle's`} electrical systems perform at their best. Whether {`it's`} diagnostics, repairs, or upgrades, trust our experts.
+            Experience the Power of Professional Auto Electrical and Diagnostics Services Today!
             </p>
             <a
               className="mt-5 px-4 py-2 text-indigo-600 font-medium bg-indigo-50 rounded-full inline-flex items-center"
               href="javascript:void(0)">
-              Get Started
+              Contact Us
               <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6 ml-1 duration-150" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7l5 5m0 0l-5 5m5-5H6" />
               </svg>
@@ -21,7 +21,7 @@ const CTA = () => {
           </div>
           <div className="flex-1 mt-5 mx-auto sm:w-9/12 lg:mt-0 lg:w-auto">
             <img
-              src="https://images.pexels.com/photos/1659748/pexels-photo-1659748.jpeg?auto=compress&cs=tinysrgb&w=600"
+              src="https://xtremeautoelectrics.co.za/wp-content/uploads/elementor/thumbs/pexels-burak-the-weekender-86993-q54qokgvbnee7mn0v2sm8d3usksntx99s14tnr2e14.jpg"
               alt="Auto Electrical Services"
               className="w-full rounded-md"
             />

@@ -1,5 +1,5 @@
 import React from 'react';
-import { Services } from '../components';
+import { Services,Contact } from '../components';
 import Head from 'next/head';
 
 function Service() {
@@ -12,6 +12,7 @@ function Service() {
       </Head>
 
       <Services />
+      <Contact  />
     </>
   );
 }

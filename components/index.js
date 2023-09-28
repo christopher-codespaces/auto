@@ -1,5 +1,5 @@
 export {default as NavBar} from "./NavBar.jsx";
-export {default as CTA} from "./About.jsx";
+export {default as Action} from "./Action.jsx";
 export {default as Hero} from "./Hero.jsx";
 export {default as Model} from "./Model.jsx";
 export {default as Contact} from "./Contact.jsx";

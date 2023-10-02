@@ -1,5 +1,5 @@
 import React from 'react';
-import { About,Contact } from '../components';
+import { About,Contact,Whatsapp } from '../components';
 import Head from 'next/head';
 
 function Service() {
@@ -13,6 +13,7 @@ function Service() {
 
       <About />
       <Contact  />
+      <Whatsapp/>
     </>
   );
 }

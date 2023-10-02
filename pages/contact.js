@@ -1,5 +1,5 @@
 import React from 'react';
-import { Contact } from '../components';
+import { Contact,Whatsapp } from '../components';
 import Head from 'next/head';
 
 function ContactPage() {
@@ -12,6 +12,7 @@ function ContactPage() {
       </Head>
 
       <Contact />
+      <Whatsapp/>
     </>
   );
 }

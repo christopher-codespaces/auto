@@ -1,5 +1,5 @@
 import React from 'react';
-import { Services,Contact } from '../components';
+import { Services,Contact ,Whatsapp} from '../components';
 import Head from 'next/head';
 
 function Service() {
@@ -13,6 +13,7 @@ function Service() {
 
       <Services />
       <Contact  />
+      <Whatsapp/>
     </>
   );
 }

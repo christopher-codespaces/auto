@@ -7,3 +7,5 @@ export {default as Footer} from "./Footer.jsx"
 export {default as Pass} from "./Pass.jsx";
 export {default as Services} from "./Services.jsx"
 export {default as About} from "./About.jsx"
+export {default as Gallery} from "./Gallery.jsx"
+export {default as Whatsapp} from "./Whatsapp.jsx"
